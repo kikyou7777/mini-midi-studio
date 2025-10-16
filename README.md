@@ -1,7 +1,7 @@
 
-  # Synth Maker
+  # Minimal MIDI Studio
 
-  This is a code bundle for Synth Maker. The original project is available at https://www.figma.com/design/RIGEf9J6CV1FuXinlNRnNJ/Synth-Maker.
+  This is a code bundle for my mini project of midi music maker. Very beginner friendly
 
   ## Running the code
 
